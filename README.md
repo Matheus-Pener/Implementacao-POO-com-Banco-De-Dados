@@ -22,9 +22,11 @@ information_schema | mysql | performance_schema | sakila | sys
 
 • A proposta será utilizar algumas entidades como classes (Film; Store; City e Actor) e propor métodos para cada uma delas.
 
+• Os metódos será baseado no CRUD (Creat, Read, Update, Delete)
+
+
 • O arquivo conexao.ts será utilizado apenas para conexão com o banco de dado. O mesmo será importado para outras classes para facilitação da conexão.
 
-• Os metódos será baseado no CRUD (Creat, Read, Update, Delete)
 
 
 
