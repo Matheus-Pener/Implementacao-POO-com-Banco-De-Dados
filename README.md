@@ -24,7 +24,7 @@ information_schema | mysql | performance_schema | sakila | sys
 
 • O arquivo conexao.ts será utilizado apenas para conexão com o banco de dado. O mesmo será importado para outras classes para facilitação da conexão.
 
-• Os metódos seram baseados no CRUD (Creat, Read, Update, Delete)
+• Os metódos será baseado no CRUD (Creat, Read, Update, Delete)
 
 
 
